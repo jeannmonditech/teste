@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//wcm/widget/agendamento/src/main/resources/agendamento.properties=utf8
+encoding//wcm/widget/agendamento/src/main/resources/agendamento_en_US.properties=utf8
+encoding//wcm/widget/agendamento/src/main/resources/agendamento_es.properties=utf8
+encoding//wcm/widget/agendamento/src/main/resources/agendamento_pt_BR.properties=utf8
+encoding//wcm/widget/agendamento/src/main/resources/application.info=utf8
+encoding//wcm/widget/agendamento/src/main/resources/edit.ftl=utf8
+encoding//wcm/widget/agendamento/src/main/resources/view.ftl=utf8
+encoding//wcm/widget/agendamento/src/main/webapp/WEB-INF/jboss-web.xml=utf8
+encoding//wcm/widget/agendamento/src/main/webapp/WEB-INF/web.xml=utf8
+encoding//wcm/widget/agendamento/src/main/webapp/resources/css/agendamento.css=utf8
+encoding//wcm/widget/agendamento/src/main/webapp/resources/images/icon.png=utf8
+encoding//wcm/widget/agendamento/src/main/webapp/resources/js/agendamento.js=utf8

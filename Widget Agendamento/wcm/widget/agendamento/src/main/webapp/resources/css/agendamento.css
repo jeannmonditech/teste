@@ -1,0 +1,255 @@
+/* Coloque aqui seu codigo CSS */
+
+
+.activeSection {
+	margin: 59px 0 0 -5px;
+}
+
+.activeSection2 {
+	margin: 59px 0 0 -5px;
+}
+
+
+.activeSection input {
+	float: left;
+    margin-right: 5px !important;
+} 
+
+.activeSection2 input {
+	float: left;
+    margin-right: 5px !important;
+} 
+
+.btnRegister {
+	margin: 25px 0 0 50px !important;
+	z-index: 9;
+    width: 100%;
+    max-width: 41px;
+    height: 40px;
+    background: #313131 !important;
+    color: #fff !important;
+}
+
+.btn_register {
+	margin: 10px 21px 6px 0px !important;
+	z-index: 9;
+    width: 100%;
+    max-width: 167px;
+    height: 40px;
+    background: #313131 !important;
+    color: #fff !important;
+}
+
+.btn_register:hover,
+.btnRegister:hover,
+.btnSearch:hover {
+	opacity: .6;
+}
+
+.btnSearch {
+	margin: 25px 14px 0 0px !important;
+	z-index: 9;
+    width: 100%;
+    max-width: 97px;
+    height: 40px;
+    background: #313131 !important;
+    color: #fff !important;
+}
+
+#formAgend {
+	position: relative;
+}
+
+.btn_close {
+	z-index: 9;
+    width: 100%;
+    max-width: 167px;
+    height: 40px;
+    margin: 10px 0 6px 21px !important;
+    background: #313131 !important;
+    color: #fff !important;
+}
+
+.btn_close:hover {
+	opacity: .6;
+}
+
+
+h2.pageTitle {
+    margin: 9px !important;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 26px;
+    border-left: 3px solid;
+    padding-left: 14px;
+    color: #58595b;
+    display: none !important;
+}
+
+h2.pageTitles {
+    margin: 9px 0 20px 7px !important;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 21px !important;
+    border-left: 3px solid;
+    padding-left: 14px;
+    color: #58595b !important;
+}
+
+
+#tabTarefas_wrapper .dt-buttons {
+	margin: 13px 0 24px 0;
+
+}
+
+#tabTarefas_wrapper .buttons-csv  {
+	margin-left: 20px;
+    background: #636363;
+    border-radius: 4px;
+    color: #fff;
+}
+
+#tabTarefas_wrapper .buttons-csv:hover  {
+	
+	opacity: .7;
+}
+
+
+#tabTarefas_wrapper .buttons-excel   {
+    background: #636363;
+    border-radius: 4px;
+    color: #fff;
+}
+
+#tabTarefas_wrapper .buttons-excel:hover  {
+	
+	opacity: .7;
+}
+
+#tabTarefas_wrapper tbody#corpoTabela tr:hover {
+    opacity: .6;
+    cursor: pointer;
+}
+
+button.btn_Edit {
+    color: #313131;
+    background: transparent;
+}
+
+button.btn_Edit:hover {
+    background: transparent;
+    color: #cecece;
+}
+
+.modal-backdrop.show {
+    width: 100%;
+    height: 1000%;
+    position: absolute;
+    top: 0;
+	z-index: 99;
+	background-color: #000;
+	opacity: .5;
+}
+
+div.modal {
+    z-index: 999 !important;
+    position: absolute !important;
+    top: 48%;
+    left: 24%;
+    margin: 0 auto;
+    box-shadow: none !important;
+}
+
+.marginTop {
+	margin-top: 20px;
+}
+
+div#cardFiltro .panel-heading {
+    font-size: 12px;
+    padding: 9px 16px !important;
+}
+
+#visualizacaoPagina .slotfull.layout-1-1:first-child {
+	display: none !important;
+}
+
+.inputWarning {
+    border: 1px solid #e65454 !important;
+}
+
+div#wcm_widget_2598 {
+    padding: 15px 19px 1px 19px;
+}
+
+#dtEnd, #dtStart, #dtStartCad, #dtEndCad, #dtStartEdit, #dtEndEdit {
+    background-image: linear-gradient(to left,#ffffff,#ffffff),linear-gradient(to left,#58595b,#58595b) !important;
+    background-color: #fff !important;
+}
+
+
+.modalFull {
+  background-color: #fff;
+  width: 790px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+div#fundoEscuro {
+    background: black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: .7;
+    z-index: 9;
+}
+
+
+.modalFull {
+    background-color: #fff;
+    width: 100%;
+    max-width: 860px;
+    height: 100%;
+    max-height: 300px;
+    left: 23%;
+    position: absolute;
+    z-index: 9;
+    top: 14%;
+    
+    
+}
+
+
+.modalFull .modal-footer {
+    background: #fff;
+}
+
+
+.modalFull .modal-dialog {
+	width: 100% !important;
+}
+
+
+.modalFull .btn-close {
+    position: absolute;
+    right: 21px;
+    top: 20px;
+    font-size: 27px;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+}
+
+.closed {
+	float: left;
+    background: #313131 !important;
+    color: #fff !important;
+    padding: 8px 25px !important;
+}
+
+.update {
+    background: #313131 !important;
+    color: #fff !important;
+    padding: 8px 25px !important;
+}
